@@ -1,6 +1,6 @@
 - 👋 Hi, I’m YaoYao
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to build cool projects
 - 📫 How to reach me yaozhou.xiong06@gmail.com
 
