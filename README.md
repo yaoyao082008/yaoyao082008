@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yaoyao082008
-- 👀 I’m interested in playing games
+- 👋 Hi, I’m YaoYao
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to build cool projects
 - 📫 How to reach me yaozhou.xiong06@gmail.com
